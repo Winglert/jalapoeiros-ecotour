@@ -1,0 +1,172 @@
+[
+	{
+		"id": "1",
+		"nome": "Nome do Roteiro",
+		"dias": [
+			{
+				"hora": "6:00h",
+				"roteiro": "&bull; Cânion Sussuapara <br/> &bull; Parada para Almoço Comunidade Quilombola <br/> &bull; Prainha do Rio Novo <br/> &bull; Serra do Espírito Santo <br/> &bull; Lagoa do Jacaré <br/> &bull; Dunas <br/> &bull; Pernoite Pousada em Mateiros (jantar)"
+			},
+			{
+				"hora": "8:00h",
+				"roteiro": "&bull; Fervedouro Buritis <br/> &bull; Fervedouro do Ceiça <br/> &bull; Parada para almoço <br/> &bull; Cachoeira do Formiga <br/> &bull; Fervedouro Buritizinho <br/> &bull; Pernoite Pousada em Mateiros (jantar)"
+			},
+			{
+				"hora": "8:00h",
+				"roteiro": "&bull; Fervedouro Macúbas <br/> &bull; Fervedouro Bela Vista <br/> &bull; Parada para almoço <br/> &bull; Serra da Catedral <br/> &bull; Retorno a Palmas"
+			}
+		]
+	},
+	{
+		"id": "2",
+		"nome": "Nome do Roteiro",
+		"dias": [
+			{
+				"hora": "6:00h",
+				"roteiro": "&bull; Lagoa do japonês <br/> &bull; Parada para almoço <br/> &bull; Pedra furada <br/> &bull; pernoite em Ponte alta (jantar)"
+			},
+			{
+				"hora": "8:00h",
+				"roteiro": "&bull; Canion Suçuapara  <br/> &bull; Parada para Almoço Comunidade Quilombola <br/> &bull; Prainha do Rio Novo <br/> &bull; Serra do Espírito Santo <br/> &bull; Lagoa do Jacaré <br/> &bull; Dunas <br/> &bull; Pernoite Pousada em Mateiros (jantar)"
+			},
+			{
+				"hora": "8:00h",
+				"roteiro": "&bull; Fervedouro Buritis <br/> &bull; Cachoeira do Formiga <br/> &bull; Parada para almoço <br/> &bull; Fervedouro Bela Vista <br/> &bull; Serra da catedral <br/> &bull; Retorno Palmas"
+			}
+		]
+	},
+	{
+		"id": "3",
+		"nome": "Nome do Roteiro",
+		"dias": [
+			{
+				"hora": "7:15h",
+				"roteiro": "&bull; Lagoa do Japonês <br/> &bull; Parada para almoço <br/> &bull; Pedra furada <br/> &bull; Pernoite Pousada em Ponte Alta (jantar)"
+			},
+			{
+				"hora": "8:00h",
+				"roteiro": "&bull; Cânion Sussuapara <br/> &bull; Parada para Almoço Comunidade Quilombola <br/> &bull; Prainha do Rio Novo <br/> &bull; Serra do Espírito Santo <br/> &bull; Lagoa do Jacaré <br/> &bull; Dunas <br/> &bull; Pernoite Pousada em Mateiros (jantar)"
+			},
+			{
+				"hora": "8:30h",
+				"roteiro": "&bull; Fervedouro Buritis <br/> &bull; Parada para almoço <br/> &bull; Fervedouro do Ceiça <br/> &bull; Cachoeira da Formiga <br/> &bull; Fervedouro Buritizinho <br/> &bull; Pernoite Pousada em Mateiros (jantar)"
+			},
+			{
+				"hora": "8:00h",
+				"roteiro": "&bull; Fervedouro Macaúbas <br/> &bull; Fervedouro Bela Vista <br/> &bull; Parada para almoço <br/> &bull; Serra da Catedral"
+			}
+		]
+	},
+	{
+		"id": "4",
+		"nome": "Nome do Roteiro",
+		"dias": [
+			{
+				"hora": "7:15h",
+				"roteiro": "&bull; Cachoeira Escorrega Macaco <br/> &bull; Cachoeira da Roncadeira <br/> &bull; Parada para almoço <br/> &bull; Visita a loja de artesanato (Capim Dourado) <br/> &bull; Pedra furada <br/> &bull; Pernoite Pousada em Ponte Alta (jantar)"
+			},
+			{
+				"hora": "8:00h",
+				"roteiro": "&bull; Cânion Sussuapara <br/> &bull; Parada para Almoço Comunidade Quilombola <br/> &bull; Prainha do Rio Novo <br/> &bull; Serra do Espírito Santo <br/> &bull; Lagoa do Jacaré <br/> &bull; Dunas <br/> &bull; Pernoite Pousada em Mateiros (jantar)"
+			},
+			{
+				"hora": "8:30h",
+				"roteiro": "&bull; Fervedouro Buritis <br/> &bull; Parada para almoço <br/> &bull; Fervedouro do Ceiça <br/> &bull; Cachoeira da Formiga <br/> &bull; Fervedouro Buritizinho <br/> &bull; Pernoite Pousada em Mateiros (jantar)"
+			},
+			{
+				"hora": "8:00h",
+				"roteiro": "&bull; Fervedouro Macaúbas <br/> &bull; Fervedouro Bela Vista <br/> &bull; Parada para almoço <br/> &bull; Serra da Catedral"
+			}
+		]
+	},
+	{
+		"id": "5",
+		"nome": "Nome do Roteiro",
+		"dias": [
+			{
+				"hora": "7:15h",
+				"roteiro": "&bull; Saída de Palmas <br/> &bull; Lagoa do Japonês <br/> &bull; Parada para almoço <br/> &bull; Pedra Furada <br/> &bull; Pernoite em Ponte Alta do Tocantins, com Jantar"
+			},
+			{
+				"hora": "8:30h",
+				"roteiro": "&bull; Saída da pousada seguindo para: <br/> &bull; Cânion Sussuapara <br/> &bull; Parada para almoço na comunidade <br/> &bull; Quilombola <br/> &bull; Prainha do Rio Novo <br/> &bull; Serra do Espirito Santo (fotos na parte baixa) <br/> &bull; Lagoa do Jacaré <br/> &bull; Dunas <br/> &bull; Pernoite em Mateiros, com Jantar"
+			},
+			{
+				"hora": "8:30h",
+				"roteiro": "&bull; Fervedouro Buritis <br/> &bull; Fervedouro do Rio Sono <br/> &bull; Parada para almoço <br/> &bull; Cachoeira da Formiga <br/> &bull; Pernoite em Mateiros, com Jantar"
+			},
+			{
+				"hora": "8:30h",
+				"roteiro": "&bull; Fervedouro do Ceiça <br/> &bull; Parada para almoço <br/> &bull; Fervedouro Buritizinho <br/> &bull; Fervedouro Macaúbas <br/> &bull; Fervedouro Noturno <br/> &bull; Pernoite em São Felix do Tocantins, com Jantar"
+			},
+			{
+				"hora": "8:30h",
+				"roteiro": "&bull; Fervedouro Bela vista <br/> &bull; Poço Encantado <br/> &bull; Parada para almoço <br/> &bull; Serra da Catedral <br/> &bull; Retorno pra Palmas"
+			}
+		]
+	},
+	{
+		"id": "6",
+		"nome": "Nome do Roteiro",
+		"dias": [
+			{
+				"hora": "7:15h",
+				"roteiro": "&bull; Lagoa do Japonês <br/> &bull; Parada para almoço <br/> &bull; Pedra Furada <br/> &bull; Pernoite em Ponte Alta do Tocantins, com Jantar"
+			},
+			{
+				"hora": "8:30h",
+				"roteiro": "&bull; Cânion Sussuapara <br/> &bull; Parada para almoço na comunidade Quilombola <br/> &bull; Prainha do Rio Novo <br/> &bull; Serra do Espirito Santo (fotos na parte baixa) <br/> &bull; Lagoa do Jacaré <br/> &bull; Dunas <br/> &bull; Pernoite em Mateiros, com Jantar"
+			},
+			{
+				"hora": "8:30h",
+				"roteiro": "&bull; Fervedouro Buritis <br/> &bull; Fervedouro do Rio Sono <br/> &bull; Parada para almoço <br/> &bull; Cachoeira da Formiga <br/> &bull; Fervedouro do Ceiça <br/> &bull; Pernoite em Mateiros, com Jantar"
+			},
+			{
+				"hora": "8:30h",
+				"roteiro": "&bull; Fervedouro Mumbuca e Prainha - Povoado Munbuca <br/> &bull; Fervedouro Buritizinho <br/> &bull; Parada para almoço <br/> &bull; Fervedouro Macaúbas <br/> &bull; Fervedouro Noturno <br/> &bull; Pernoite em São Felix do Tocantins, com Jantar"
+			},
+			{
+				"hora": "8:30h",
+				"roteiro": "&bull; Fervedouro Bela vista <br/> &bull; Poço Encantado <br/> &bull; Parada para almoço <br/> &bull; Serra da Catedral <br/> &bull; Pernoite em Palmas ou Taquarussu, com Jantar"
+			},
+			{
+				"hora": "8:30h",
+				"roteiro": "&bull; Cachoeira do Escorrega Macaco <br/> &bull; Cachoeira da Roncadeira <br/> &bull; Parada para Almoço <br/> &bull; Cachoeira do Evilson"
+			}
+		]
+	},
+	{
+		"id": "7",
+		"nome": "Nome do Roteiro",
+		"dias": [
+			{
+				"hora": "5:30h",
+				"roteiro": "&bull; Cânion Encantado <br/> &bull; Parada para almoço <br/> &bull; Cidade das Pedras <br/> &bull; Cachoeira dos Pelados <br/> &bull; Pernoite em Ponte Alta do Tocantins, com Jantar"
+			},
+			{
+				"hora": "7:30h",
+				"roteiro": "&bull; Lagoa do Japonês <br/> &bull; Parada para almoço <br/> &bull; Pedra Furada <br/> &bull; Pernoite em Ponte Alta do Tocantins, com Jantar"
+			},
+			{
+				"hora": "8:30h",
+				"roteiro": "&bull; Cânion Suçuapara <br/> &bull; Parada para almoço na comunidade Quilombola <br/> &bull; Prainha do Rio Novo <br/> &bull; Serra do Espirito Santo (fotos na parte baixa) <br/> &bull; Lagoa do Jacaré <br/> &bull; Dunas <br/> &bull; Pernoite em Mateiros, com Jantar"
+			},
+			{
+				"hora": "8:30h",
+				"roteiro": "&bull; Fervedouro Buritis <br/> &bull; Fervedouro do Rio Sono <br/> &bull; Parada para almoço <br/> &bull; Cachoeira da Formiga <br/> &bull; Fervedouro do Ceiça <br/> &bull; Pernoite em Mateiros, com Jantar"
+			},
+			{
+				"hora": "8:30h",
+				"roteiro": "&bull; Fervedouro Mumbuca e Prainha - Povoado Mumbuca <br/> &bull; Fervedouro Buritizinho <br/> &bull; Parada para almoço <br/> &bull; Fervedouro Macaúbas <br/> &bull; Fervedouro Noturno <br/> &bull; Pernoite em São Felix do Tocantins, com Jantar"
+			},
+			{
+				"hora": "8:30h",
+				"roteiro": "&bull; Fervedouro Bela vista <br/> &bull; Poço Encantado <br/> &bull; Parada para almoço <br/> &bull; Serra da Catedral <br/> &bull; Pernoite em Palmas ou Taquarussu, com Jantar"
+			},
+			{
+				"hora": "8:30h",
+				"roteiro": "&bull; Cachoeira do Escorrega Macaco <br/> &bull; Cachoeira da Roncadeira <br/> &bull; Parada para Almoço <br/> &bull; Cachoeira do Evilson"
+			}
+		]
+	}
+]
