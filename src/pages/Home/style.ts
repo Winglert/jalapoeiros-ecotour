@@ -62,9 +62,213 @@ export const Introduction = styled.section`
 		margin-bottom: 1rem;
 	}
 
+	.animation {
+		display: flex;
+		justify-content: center;
+		position: relative;
+
+		.sticker {
+			transform: rotate(335deg);
+			fill: #000;
+			stroke: #000;
+    	stroke-width: 20px;
+
+			text {
+				font-size: 3vw;
+				font-weight: 900;
+				fill: #000;
+			}
+
+			g {
+				animation-name: heartOulinePosition;
+				animation-iteration-count: infinite;
+				animation-duration: 1s;
+
+				svg {
+					font-size: 6rem;
+					fill: #000;
+					animation-name: heartOuline;
+					animation-iteration-count: infinite;
+					animation-duration: 1s;
+				}
+			}
+		}
+
+		.sticker-text {
+			position: absolute;
+			top: 0;
+			left: 0;
+			fill: #FFF;
+			transform: rotate(335deg);
+
+			text {
+				font-size: 3vw;
+				font-weight: 900;
+			}
+
+			g {
+				animation-name: heartBeatingPosition;
+				animation-iteration-count: infinite;
+				animation-duration: 1s;
+
+				svg {
+					font-size: 4.5rem;
+					fill: #F00;
+					animation-name: heartBeating;
+					animation-iteration-count: infinite;
+					animation-duration: 1s;
+				}	
+			}
+		}
+
+		@keyframes heartBeating {
+			from {font-size: 4.5rem;}
+			50% {font-size: 5rem;}
+			to {font-size: 4.5rem;}
+		}
+
+		@keyframes heartBeatingPosition {
+			from {transform: translateY(0, 0);}
+			50% {transform: translate(-5px, -5px);}
+			to {transform: translateY(0, 0);}
+		}
+
+		@keyframes heartOuline {
+			from {font-size: 6rem;}
+			50% {font-size: 6.5rem;}
+			to {font-size: 6rem;}
+		}
+
+		@keyframes heartOulinePosition {
+			from {transform: translateY(0, 0);}
+			50% {transform: translate(-5px, -5px);}
+			to {transform: translateY(0, 0);}
+		}
+	}
+
+	@media (max-width: 1199px) {
+		.animation {
+			.sticker, .sticker-text {
+				g {
+					svg {
+						animation-iteration-count: 0;
+					}
+				}
+			}
+		}
+	}
+
+	@media (min-width: 992px) and (max-width: 1199px) {
+		.animation {
+			.sticker {
+				g {
+					svg {
+						font-size: 5rem;
+					}
+				}
+			}
+
+			.sticker-text {
+				g {
+					svg {
+						font-size: 4rem;
+					}
+				}
+			}
+		}
+	}
+
 	@media (max-width: 991px) {
 		img {
 			margin-bottom: 1rem;
+		}
+
+		.animation {
+			.sticker, .sticker-text {
+				transform: unset;
+
+				text {
+					font-size: 8vw;
+				}
+			}
+		}
+	}
+
+	@media (min-width: 768px) and (max-width: 991px) {
+		.animation {
+			.sticker {
+				g {
+					transform: translate(-7px,-12px);
+
+					svg {
+						font-size: 7rem;
+					}
+				}
+			}
+
+			.sticker-text {
+				g {
+					transform: translate(-4px,-10px);
+
+					svg {
+						font-size: 5.5rem;
+					}
+				}
+			}
+		}
+	}
+
+	@media (min-width: 576px) and (max-width: 767px) {
+		.animation {
+			.sticker {
+				g {
+					transform: translate(4px, 12px);
+
+					svg {
+						font-size: 5rem;
+					}
+				}
+			}
+
+			.sticker-text {
+				g {
+					transform: translate(7px,13px);
+
+					svg {
+						font-size: 3.5rem;
+					}
+				}
+			}
+		}
+	}
+
+	@media (max-width: 575px) {
+		.animation {
+			.sticker, .sticker-text {
+				text {
+					font-size: 8vw;
+				}
+			}
+
+			.sticker {
+				g {
+					transform: translate(10px, 25px);
+
+					svg {
+						font-size: 4rem;
+					}
+				}
+			}
+
+			.sticker-text {
+				g {
+					transform: translate(8.5px,22px);
+
+					svg {
+						font-size: 3rem;
+					}
+				}
+			}
 		}
 	}
 `;

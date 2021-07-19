@@ -11,7 +11,7 @@ import FlipCard from '../../components/FlipCard';
 // Image
 import indisponivel from '../../assets/images/jpg/indisponivel.jpg';
 // Icons
-//import { AiFillHeart } from "react-icons/ai";
+import { AiFillHeart } from "react-icons/ai";
 
 interface modalContext {
 	title: string,
@@ -113,23 +113,27 @@ const Home: React.FC = () => {
       </Carousel>
 		</CustomCarousel>
 		
-		<Introduction className="section small pb-0">
+		<Introduction className="section">
 			<Grid>
 				<FlexboxGrid align="middle">
 					<Col md={8} mdPush={16} xs={24}>
-						{/* <div className="animation">
-							<svg width="100%" viewBox="0 0 320px 50px">
-								<text y="57px">I</text>
-								<AiFillHeart y="0" x="50px"/>
-								<text y="57px" x="115px">Jalapão</text>
+						<div className="animation">
+							<svg width="100%" className="sticker">
+								<text y="65" x="45">I</text>
+								<g>
+									<AiFillHeart y="1" x="70"/>
+								</g>
+								<text y="65" x="170">Jalapão</text>
 							</svg>
-							<svg width="100%" viewBox="0 0 320px 50px">
-								<text y="57px">I</text>
-								<AiFillHeart y="0" x="50px"/>
-								<text y="57px" x="115px">Jalapão</text>
+							<svg width="100%" className="sticker-text">
+								<text y="65" x="45">I</text>
+								<g>
+									<AiFillHeart y="13.5" x="82.5"/>
+								</g>
+								<text y="65" x="170">Jalapão</text>
 							</svg>
-						</div> */}
-						<img src="./images/png/call-to-action.png" alt="Imagem PNG, Mulher extendendo a mão direita em direção a tela"/>
+						</div>
+						{/* <img src="./images/png/call-to-action.png" alt="Imagem PNG, Mulher extendendo a mão direita em direção a tela"/> */}
 					</Col>
 					<Col md={16} mdPull={8} xs={24}>
 						<h1 className="titulo"><span>Venha conhecer Jalapão</span></h1>
